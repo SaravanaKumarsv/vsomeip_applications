@@ -1,0 +1,4 @@
+/home/saravana/someip_application/applications/build/CMakeFiles/abs_app.dir
+/home/saravana/someip_application/applications/build/CMakeFiles/vcu_app.dir
+/home/saravana/someip_application/applications/build/CMakeFiles/edit_cache.dir
+/home/saravana/someip_application/applications/build/CMakeFiles/rebuild_cache.dir
